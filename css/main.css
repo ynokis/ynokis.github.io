@@ -2504,7 +2504,7 @@ ul.breadcrumb li:last-child {
   }
 }
 body {
-  background: url("/images/bg.PNG");
+  background: url("https://cdn.luogu.com.cn/upload/image_hosting/27c9dleg.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
